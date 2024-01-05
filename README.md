@@ -1,0 +1,3 @@
+- Hey people, I'm currently studying business informatics and at the same time working as a student trainee in the field of network automation with python.
+- I'm currently working on my private website, which I'm building with Next.js. I'm spending more and more time coding and learning a lot of new things. Let's see where the journey takes me.
+- You can reach me via Instagram @melihdihya_sw, where I am primarily for the calisthenics community. This is the sport that drives me
